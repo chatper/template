@@ -8,7 +8,7 @@ changelog:
         - fix
     - title: Dependencies
       labels:
-        - dependency
+        - dependencies
     - title: Other changes
       labels:
         - '*'
