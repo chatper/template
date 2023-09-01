@@ -2,10 +2,13 @@ changelog:
   categories:
     - title: New features
       labels:
-        - '*'
-      exclude:
-        labels:
-          - dependencies
+        - feature
+    - title: Fixes
+      labels:
+        - fix
     - title: Dependencies
       labels:
-        - dependencies
+        - dependency
+    - title: Other changes
+      labels:
+        - '*'
